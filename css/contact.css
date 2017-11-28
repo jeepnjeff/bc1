@@ -1,0 +1,23 @@
+/*Start contact css*/
+.contact_section {
+    width:100%;
+    margin-top: 15px;
+}
+
+.contact_section:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.form_container {
+    width: 45%;
+    float: left;
+    margin-left: 2%
+}
+.map_container {
+    width: 45%;
+    float: right;
+    margin-top: 75px
+}
+/*End contact css*/
