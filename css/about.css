@@ -1,0 +1,34 @@
+/*Start about CSS*/
+
+/*selfy css*/
+.about_container:after {
+   content: "";
+   display: block;
+   clear: both;
+}
+
+.about_section{
+    width: 45%;
+    float: left;
+    padding: 2.5%;
+    color: #ff9000;
+    background-color: #000;
+    
+}
+
+.selfie {
+    width: 100%;
+}
+/*selfy css*/
+
+/*about info*/
+.info_header {
+    text-align: center;
+}
+
+.text_info {
+    
+}
+/*about info*/
+
+/*Start about CSS*/
